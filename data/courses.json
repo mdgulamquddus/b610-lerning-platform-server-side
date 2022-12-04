@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+    "title": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
+    "badge": "Bestseller",
+    "ratings": 4,
+    "ratings_count": 10000,
+    "students": 15000,
+    "creator": "affan"
+  },
+  {
+    "id": 2,
+    "name": "Understanding TypeScript - 2023 Edition",
+    "title": "Boost your JavaScript projects with TypeScript: Learn all about core types, generics, TypeScript + React or Node & more!",
+    "badge": "Bestseller",
+    "ratings": 4,
+    "ratings_count": 12000,
+    "students": 14000,
+    "creator": "afzaan"
+  },
+  {
+    "id": 3,
+    "name": "The Modern Javascript Bootcamp Course (2022)",
+    "title": "The most up-to-date JS resource online! Master Javascript by building a beautiful portfolio of projects!",
+    "badge": "Bestseller",
+    "ratings": 4.5,
+    "ratings_count": 20000,
+    "students": 19000,
+    "creator": "sharmin"
+  },
+  {
+    "id": 4,
+    "name": "NodeJS Tutorial and Projects Course",
+    "title": "Learn Node.js by building real-world applications with Node JS, Express, MongoDB.",
+    "badge": "Bestseller",
+    "ratings": 5,
+    "ratings_count": 25000,
+    "students": 20000,
+    "creator": "sharmin"
+  },
+  {
+    "id": 5,
+    "name": "2022 Complete Python Bootcamp From Zero to Hero in Python",
+    "title": "Learn Python like a Professional Start from the basics and go all the way to creating your own applications and games",
+    "badge": "Bestseller",
+    "ratings": 5,
+    "ratings_count": 10000,
+    "students": 9000,
+    "creator": "sharmin"
+  },
+  {
+    "id": 6,
+    "name": "Java Programming Masterclass updated to Java 17",
+    "title": "Learn Java In This Course And Become a Computer Programmer. Obtain valuable Core Java Skills And Java Certification",
+    "badge": "Bestseller",
+    "ratings": 5,
+    "ratings_count": 10000,
+    "students": 9000,
+    "creator": "sharmin"
+  }
+]
