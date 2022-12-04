@@ -17,6 +17,12 @@ app.get("/courses", (req, res) => {
   res.json(courses);
 });
 
+app.get("/course/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  const selectedCourse = courses.find((course) => course.id === id);
+  res.json(selectedCourse);
+});
+
 app.listen(port, () => {
   console.log(`Web Course Server is runnig on port ${port}`);
 });
