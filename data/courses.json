@@ -1,14 +1,26 @@
 [
   {
     "id": 1,
-    "name": "React - The Complete Guide (incl Hooks, React Router, Redux)",
-    "title": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!",
-    "imgUrl": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2021/01/pasted-image-0-2.png",
+    "name": "Complete C# Programming Course – Beginner to Expert",
+    "title": "Learn Professional C# Coding! 27 Hours of Content, 7 Hands-On Projects, 2 Unity 3D Games, 16 Coding Exercises, and more!",
+    "imgUrl": "https://img-c.udemycdn.com/course/480x270/3236633_5f84_6.jpg",
     "badge": "Bestseller",
     "ratings": 4,
     "ratings_count": 10000,
     "students": 15000,
     "price": 699,
+    "learn_option": [
+      "Master C# Programming with a hands-on approach focused on getting you professional C# experience you can use to GET A JOB!",
+      "Understand HOW to implement all of the major search and sort algorithms in computer science, and WHEN to use each approach",
+      "Learn ADVANCED topics like asynchronous coding, threading, delegates, generics, recursion, bitwise operations and MORE",
+      "Gain a hands-on understanding of ALGORITHMS like A*, Dijkstra’s, N choose K, Kruskal’s, and more!",
+      "Start from Zero and Go to Hero with this ALL IN ONE, COMPREHENSIVE C# programming course!",
+      "Built a 3D Marvel Contest of Champions fighting game in Unity using C# with 4 playable characters and enemy AI logic!",
+      "Take a DEEP DIVE into collections and data structures and become a master at understanding the PROS and CONS of each!",
+      "Start out with basic or no C# knowledge and build up to being able to LAND A JOB using C# after taking this course!",
+      "Understand all 23 Gang of 4 design patterns and HOW TO IMPLEMENT EACH OF THEM, in C# in an easy-to-understand manner",
+      "Course is PACKED with interview questions and focuses on teaching you HOW TO THINK LIKE A COMPUTER PROGRAMMER"
+    ],
     "requirements": [
       {
         "req_id": 1,
@@ -27,14 +39,26 @@
   },
   {
     "id": 2,
-    "name": "Understanding TypeScript - 2023 Edition",
-    "title": "Boost your JavaScript projects with TypeScript: Learn all about core types, generics, TypeScript + React or Node & more!",
-    "imgUrl": "https://miro.medium.com/max/720/0*-7un2ZnPbuMp0gAE.webp",
+    "name": "Building Modern Web Applications with Go (Golang)",
+    "title": "Learn to program in Go from an award winning university professor",
+    "imgUrl": "https://img-c.udemycdn.com/course/480x270/3735384_2e08_4.jpg",
     "badge": "Bestseller",
     "ratings": 4,
     "ratings_count": 12000,
     "students": 14000,
     "price": 499,
+    "learn_option": [
+      "How to write programs in the Go language (often called Golang)",
+      "How to write Javascript without depending on something like jQuery",
+      "How to build modern, secure web applications in Google's Go programming language",
+      "How to write tests in Go",
+      "Start from Zero and Go to Hero with this ALL IN ONE, COMPREHENSIVE C# programming course!",
+      "How to manage sessions in Go",
+      "How to create HTML pages using HTML5",
+      "How to create and use Cascading Style Sheets",
+      "How to organize your Go application correctly",
+      "How to connect to a database in Go"
+    ],
     "requirements": [
       {
         "req_id": 1,
@@ -53,14 +77,26 @@
   },
   {
     "id": 3,
-    "name": "The Modern Javascript Bootcamp Course (2022)",
-    "title": "The most up-to-date JS resource online! Master Javascript by building a beautiful portfolio of projects!",
-    "imgUrl": "data:image/png;base64,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",
+    "name": "PHP for Beginners - Become a PHP Master - CMS Project",
+    "title": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects.",
+    "imgUrl": "https://img-c.udemycdn.com/course/480x270/405282_27d2_3.jpg",
     "badge": "Bestseller",
     "ratings": 4.5,
     "ratings_count": 20000,
     "students": 19000,
     "price": 199,
+    "learn_option": [
+      "You will learn to create a (CMS) Content Management System like WordPress, Drupal or Joomla",
+      "You will learn how to use Databases",
+      "You will learn MySQL",
+      "You will learn how to launch your application online",
+      "How to use AJAX to submit data to the server without refreshing the page",
+      "You will learn about sessions",
+      "You will learn how to use Databases",
+      "Object Oriented Programming",
+      "How to use forms to submit data to databases",
+      "You will learn about PHP security"
+    ],
     "requirements": [
       {
         "req_id": 1,
@@ -79,14 +115,26 @@
   },
   {
     "id": 4,
-    "name": "NodeJS Tutorial and Projects Course Bootcamp",
-    "title": "Learn Node.js by building real-world applications with Node JS, Express, MongoDB.",
-    "imgUrl": "https://coodesh.com/blog/wp-content/uploads/2022/02/onde-aprender-node.js-scaled.jpg",
+    "name": "PHP with Laravel for beginners - Become a Master in Laravel",
+    "title": "Learn to master Laravel to make advanced applications like the real CMS app we build on this course",
+    "imgUrl": "https://img-c.udemycdn.com/course/480x270/758582_ea1f.jpg",
     "badge": "Bestseller",
     "ratings": 5,
     "ratings_count": 25000,
     "students": 20000,
     "price": 399,
+    "learn_option": [
+      "Learn to build applications using laravel",
+      "You will learn how use Laravel",
+      "You will learn how to create and use Controllers and what they are",
+      "You will learn to use the templating engine Blade",
+      "How to create migrations and what they are",
+      "To install Laravel using Windows and MAC",
+      "You will learn how to use routes",
+      "You will learn how to create Views an what they are",
+      "How to connect and use Databases",
+      "You will learn about Laravel ORM (Object Relational Mapper) and Raw SQL queries. Database stuff :)"
+    ],
     "requirements": [
       {
         "req_id": 1,
@@ -113,6 +161,18 @@
     "ratings_count": 10000,
     "students": 9000,
     "price": 200,
+    "learn_option": [
+      "You will learn how to leverage the power of Python to solve tasks.",
+      "You will be able to use Python for your own work problems or personal projects.",
+      "Learn to use Python professionally, learning both Python 2 and Python 3!",
+      "Learn advanced Python features, like the collections module and how to work with timestamps!",
+      "Understand complex topics, like decorators.",
+      "You will build games and programs that use Python libraries.",
+      "You will create a portfolio of Python based projects you can share.",
+      "Create games with Python, like Tic Tac Toe and Blackjack!",
+      "Learn to use Object Oriented Programming with classes!",
+      "Understand how to use both the Jupyter Notebook and create .py files"
+    ],
     "requirements": [
       {
         "req_id": 1,
@@ -139,6 +199,18 @@
     "ratings_count": 10000,
     "students": 9000,
     "price": 299,
+    "learn_option": [
+      "Learn the core Java skills needed to apply for Java developer positions in just 14 hours.",
+      "Be able to demonstrate your understanding of Java to future employers.",
+      "Acquire essential java basics for transitioning to the Spring Framework, Java EE, Android development and more.",
+      "Be able to sit for and pass the Oracle Java Certificate exam if you choose.",
+      "Learn industry best practices in Java software development from a professional Java developer who has worked in the language for 18 years.",
+      "Obtain proficiency in Java 8 and Java 11.",
+      "You will create a portfolio of Java based projects you can share.",
+      "Create games with Java, like Tic Tac Toe and Blackjack!",
+      "Learn to use Object Oriented Programming with classes!",
+      "Understand how to use both the Jupyter Notebook and create .py files"
+    ],
     "requirements": [
       {
         "req_id": 1,

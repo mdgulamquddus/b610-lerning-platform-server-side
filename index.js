@@ -2,6 +2,7 @@ const express = require("express");
 const cors = require("cors");
 
 const courses = require("./data/courses.json");
+const blogs = require("./data/blogs.json");
 
 const port = process.env.PORT || 5000;
 
@@ -15,6 +16,10 @@ app.get("/", (req, res) => {
 
 app.get("/courses", (req, res) => {
   res.json(courses);
+});
+
+app.get("/blogs", (req, res) => {
+  res.json(blogs);
 });
 
 app.get("/course/:id", (req, res) => {
